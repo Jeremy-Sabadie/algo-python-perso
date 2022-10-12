@@ -1,0 +1,1 @@
+En partant sur la base de l'exercice précédent, vous trouverez la plus grande valeur de la liste.

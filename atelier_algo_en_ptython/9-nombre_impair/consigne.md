@@ -1,0 +1,1 @@
+Vous allez créer une liste contenant des nombres. Vous devrez dire si cette liste contient au moins un nombre impair.

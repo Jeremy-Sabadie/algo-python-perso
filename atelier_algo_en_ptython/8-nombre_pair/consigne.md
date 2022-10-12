@@ -1,0 +1,1 @@
+Vous écrirez un programme qui demande un nombre à l'utilisateur. Afficher si le nombre est pair ou impair. Vous ferez en sorte que si l'utilisateur saisi "q" le programme s'arrête.

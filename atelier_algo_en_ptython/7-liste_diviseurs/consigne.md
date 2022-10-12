@@ -1,0 +1,1 @@
+Vous demanderez la saisie d'un nombre puis vous ajouterez dans une liste tous les diviseurs de ce nombre.

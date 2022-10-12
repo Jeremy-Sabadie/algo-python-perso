@@ -1,0 +1,1 @@
+Vous demanderez le rayon d'un cercle puis vous afficherez la surface et le périmètre du cercle.
