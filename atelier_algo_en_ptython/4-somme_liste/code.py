@@ -10,5 +10,5 @@ for loop in range(len):
   result= items+ a
   items=items+1
 print(result)
-sum=sum(list)
+sum=sum(list)#La méthode sum est utilisée pour calculer la somme du tableau qui contient les valeur entrées.
 print("la somme des valeurs de la liste est de: "+str(sum)+".")
